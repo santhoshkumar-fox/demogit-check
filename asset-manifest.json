@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/santhoshkumar-fox/-demogitsome.git/static/css/main.c0b68f2c.css",
+    "main.js": "/santhoshkumar-fox/-demogitsome.git/static/js/main.cd172ca4.js",
+    "index.html": "/santhoshkumar-fox/-demogitsome.git/index.html",
+    "main.c0b68f2c.css.map": "/santhoshkumar-fox/-demogitsome.git/static/css/main.c0b68f2c.css.map",
+    "main.cd172ca4.js.map": "/santhoshkumar-fox/-demogitsome.git/static/js/main.cd172ca4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0b68f2c.css",
+    "static/js/main.cd172ca4.js"
+  ]
+}
